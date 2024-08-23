@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+div{
+    margin-top: 20px;
+    width: 1000px;
+    height: 550px;
+    padding-left: 20px;
+}
+
+#logo{
+    padding-left: 345px;
+}

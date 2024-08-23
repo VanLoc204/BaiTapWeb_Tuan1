@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+div{
+    margin-top: 20px;
+    border: 1px solid rgb(49, 156, 214);
+    width: 290px;
+    height: 400px;
+}
+
+table{
+    margin-left: 10px;
+}

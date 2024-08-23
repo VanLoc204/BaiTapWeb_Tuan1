@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+div{
+    margin-top: 20px;
+    width: 590px;
+    height: 120px;
+    border: 1px solid black;
+}
+
+table{
+    width: 580px;
+}

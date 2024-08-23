@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+div{
+    margin-top: 20px;
+    background-color: rgb(103, 205, 255);
+    width: 800px;
+    height: 550px;
+    padding-left: 20px;
+}
+
+table{
+    border: 1px gray;
+    width: 90%;
+    border-collapse: collapse
+}
+
+.left{
+    margin-left: 0.5px;
+}
+
+.left_Educational{
+    margin-left: 75px;
+}
+
+.left_Other{
+    margin-left: 57.6px;
+}
+
+.left_Unix{
+    margin-left: 55px
+}
+
+.left_Other2{
+    margin-left: 48.7px;
+}
+
+hr{
+    width: 600px;
+}
+
+.left1{
+    padding-left: 70px;
+    width: 270px;
+}
+
+img{
+    width: 200px;
+
+}
